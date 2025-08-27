@@ -77,7 +77,9 @@ public class Logicalprogprac {
 	}
 	//reversing string
 	public void stringreverse() {
-		String s = "roomsavailable";
+		String s = "rooms";
+		String s1 = "roomsavailable";
+
 		String r = "";
 		
 		for (int i = 0; i < s.length(); i++) {
